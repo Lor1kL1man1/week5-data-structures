@@ -11,7 +11,7 @@ Your job is to **read, understand, complete, and extend** it — together.
 
 ## 👥 How to Work in Groups
 
-1. **Form groups of 3–4.** Designate one person as the *driver* (types the code) and rotate every exercise.
+1.Form Groups
 2. **Read before you write.** Before touching the keyboard, read the starter file aloud as a group and make sure everyone understands each line.
 3. **Use the discussion questions** in `EXERCISES.md` — they are not optional. They are the most important part.
 4. **Don't copy-paste solutions.** The `solutions/` folder is locked for students. The struggle is the point.
