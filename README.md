@@ -92,11 +92,7 @@ cs50-week5-data-structures
 │       ├── dictionary.h    ← Header file (do not modify)
 │       ├── dictionary.txt  ← Word list loaded at runtime
 │       └── main.c          ← Entry point (do not modify)
-│
-└── solutions/              ← 🔒 Instructor use only
-    ├── hash_solution.c
-    ├── list_solution.c
-    └── dictionary_solution.c
+
 ```
 
 ---
